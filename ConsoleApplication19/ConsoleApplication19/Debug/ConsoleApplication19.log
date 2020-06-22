@@ -1,0 +1,23 @@
+﻿  ConsoleApplication19.cpp
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(107): error C2062: type 'int' unexpected
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(110): error C2143: syntax error: missing ';' before '<<'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(110): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(111): error C2143: syntax error: missing ';' before '>>'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(111): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(112): error C2143: syntax error: missing ';' before '<<'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(112): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(112): error C2086: 'int cout': redefinition
+  c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(110): note: see declaration of 'cout'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(113): error C2143: syntax error: missing ';' before '>>'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(113): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(113): error C2086: 'int cin': redefinition
+  c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(111): note: see declaration of 'cin'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(114): error C2059: syntax error: 'while'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(115): error C2143: syntax error: missing ';' before '{'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(115): error C2447: '{': missing function header (old-style formal list?)
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(119): error C2059: syntax error: 'while'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(120): error C2143: syntax error: missing ';' before '{'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(120): error C2447: '{': missing function header (old-style formal list?)
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(124): error C2059: syntax error: 'return'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(125): error C2059: syntax error: '}'
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication19\consoleapplication19\consoleapplication19.cpp(125): error C2143: syntax error: missing ';' before '}'

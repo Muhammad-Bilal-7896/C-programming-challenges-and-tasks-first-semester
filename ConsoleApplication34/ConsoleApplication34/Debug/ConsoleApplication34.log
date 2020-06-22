@@ -1,0 +1,4 @@
+﻿  chapter 4.cpp
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication34\consoleapplication34\chapter 4.cpp(57): warning C4101: 'magic_date': unreferenced local variable
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication34\consoleapplication34\chapter 4.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ConsoleApplication34.vcxproj -> C:\Users\pasradise\Documents\Visual Studio 2017\Projects\ConsoleApplication34\Debug\ConsoleApplication34.exe

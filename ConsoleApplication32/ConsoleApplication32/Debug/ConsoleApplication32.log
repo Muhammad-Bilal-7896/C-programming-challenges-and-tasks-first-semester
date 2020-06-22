@@ -1,0 +1,3 @@
+﻿  ConsoleApplication32.cpp
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication32\consoleapplication32\consoleapplication32.cpp(120): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplication32.vcxproj -> C:\Users\pasradise\Documents\Visual Studio 2017\Projects\ConsoleApplication32\Debug\ConsoleApplication32.exe

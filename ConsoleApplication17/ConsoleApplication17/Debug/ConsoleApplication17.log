@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  ConsoleApplication17.cpp
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication17\consoleapplication17\consoleapplication17.cpp(14): warning C4101: 'y': unreferenced local variable
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication17\consoleapplication17\consoleapplication17.cpp(15): warning C4101: 'n': unreferenced local variable
+  ConsoleApplication17.vcxproj -> C:\Users\pasradise\Documents\Visual Studio 2017\Projects\ConsoleApplication17\Debug\ConsoleApplication17.exe

@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  ConsoleApplication36.cpp
+c:\users\pasradise\documents\visual studio 2017\projects\consoleapplication36\consoleapplication36\consoleapplication36.cpp(12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  ConsoleApplication36.vcxproj -> C:\Users\pasradise\Documents\Visual Studio 2017\Projects\ConsoleApplication36\Debug\ConsoleApplication36.exe
