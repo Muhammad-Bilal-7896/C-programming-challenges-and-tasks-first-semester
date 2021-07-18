@@ -10,7 +10,7 @@ void start()
 	cout << "THE TOSS IS GOING TO BE DONE\n";
 	cout << "____________________________________________READY___________________________________________________" << endl;
 	cout << "Decide HEAD OR TAIL\n";
-	cout << "press any random number";
+	cout << "press any random number:\t";
 	cin >> number;
 	switch (number % 2)
 	{
